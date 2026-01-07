@@ -1,5 +1,71 @@
-# 💫 About Me:
- I'm currently working on<br>A copy trading bot project, using Django for the backend and React for the frontend — MVP coming soon!<br><br>🧑‍🤝‍🧑 I'm looking to collaborate on<br>Projects involving web development, especially with React, Node.js or Python. I’m also open to working on meaningful open-source tools or apps related to finance or sports.<br><br> 🌱 I'm currently learning<br>Django, React, MySQL, and the basics of back-end/frontend integration. I'm also diving into the world of blockchain and crypto trading automation.<br><br>💬 Ask me about<br>How to manage a full-stack dev project as a beginner, my journey through BeCode, or how I balance learning web dev with a passion for investing and music production.<br><br>⚡ Fun fact<br>I recently started DJing and mixing trance, drum & bass, and eurodance using Rekordbox 
+👋 Hi, I’m Robin
+
+💻 Junior Full-Stack / AI-Oriented Developer
+🎓 BeCode Graduate
+🤖 AI Internship Experience
+
+🚀 What I’ve done
+
+Completed an intensive Full-Stack Web Development program at BeCode
+
+Completed an internship focused on AI integration in the developer workflow
+
+Built and worked on full-stack web applications using React, Node.js, Django
+
+Designed and experimented with AI agents, prompt engineering, and automation using LangChain and modern LLMs
+
+Integrated AI-assisted tools (GitHub Copilot, Claude Code, Gemini, RooCode) to improve development productivity
+
+Prototyped UIs using Figma AI and V0.dev
+
+🧠 Technical Skills
+
+Frontend: React, Next.js, HTML, CSS, JavaScript / TypeScript
+
+Backend: Node.js, Express, Python (Django), PHP (Laravel)
+
+Databases: SQL, PostgreSQL
+
+AI & Automation: LangChain, LLM-based agents, prompt engineering
+
+DevOps & Tools: Git, GitHub, Docker, Docker Compose
+
+Methodologies: Agile / Scrum
+
+🔍 What I’m looking for
+
+I’m currently seeking a junior position as a:
+
+Full-Stack Developer
+
+AI / Automation-oriented Developer
+
+I’m especially interested in projects related to web applications, AI tools, automation, finance, or data-driven products.
+
+🌱 Currently improving
+
+Advanced Django & React patterns
+
+Backend / frontend integration
+
+AI agents & automation workflows
+
+Exploring blockchain & trading automation
+
+💬 Ask me about
+
+My journey through BeCode
+
+Building full-stack projects as a junior developer
+
+Using AI responsibly to augment, not replace, development
+
+Combining tech with interests like investing and music production
+
+⚡ Fun fact
+
+I recently started DJing and mixing trance, drum & bass and eurodance using Rekordbox 🎧
+
 
 
 ## 🌐 Socials:
